@@ -1,0 +1,62 @@
+====================================================
+E.E.S.T. N°1 MUÑIZ - MODELOS Y SISTEMAS
+PROFESOR: OMAR ALEJANDRO BAZAR | CURSO: 7° 4°
+====================================================
+REPORTE TP N°1: TGS
+FECHA: 23/4/2026, 6:42:05 p.m. | EQUIPO N°: 1
+REPOSITORIO: https://github.com/Mateo-09/Repositorio-personal
+====================================================
+
+CARGO: LÍDER TÉCNICO
+INTEGRANTE: SIN NOMBRE
+----------------------------------------------------
+
+----------------------------------------------------
+
+CARGO: ANALISTA FUNCIONAL
+INTEGRANTE: Mateo Echazarreta 
+----------------------------------------------------
+Analista Funcional
+Un sistema se define como un conjunto de elementos que interactúan entre sí 
+para lograr un objetivo común. Para el analista funcional, esto no es solo teoría, 
+sino una herramienta clave para entender qué está diseñando.
+Primero, es fundamental definir los límites del sistema, es decir, qué está 
+dentro del sistema y qué pertenece al entorno. Esto evita confusiones y 
+problemas de alcance. Si no se define bien la frontera, el proyecto puede 
+crecer sin control.
+Después se aplica el modelo Entrada-Proceso-Salida (EPS). Las entradas son 
+los datos que recibe el sistema (usuarios, información, pedidos). El proceso es 
+lo que hace el sistema con esos datos (cálculos, validaciones, lógica). Y las 
+salidas son los resultados (reportes, respuestas, acciones).
+El sistema es abierto, lo que significa que interactúa constantemente con el 
+entorno. Por eso aparece el concepto de permeabilidad, que define qué 
+información puede entrar o salir. Esto se ve, por ejemplo, en APIs o conexiones 
+con otros sistemas.
+El analista también debe tener en cuenta el feedback de los usuarios 
+(stakeholders), ya que el sistema debe adaptarse a cambios constantemente.
+Además, entra el concepto de equifinalidad, que dice que un mismo objetivo se 
+puede lograr por distintos caminos. Esto permite flexibilidad en el desarrollo, sin 
+depender de una única solución.
+En conclusión, el analista no solo define qué hace el sistema, sino también 
+para qué lo hace, asegurando que todo esté alineado con el objetivo final.
+
+----------------------------------------------------
+
+CARGO: PROGRAMADOR SENIOR
+INTEGRANTE: SIN NOMBRE
+----------------------------------------------------
+
+----------------------------------------------------
+
+CARGO: PROGRAMADOR JUNIOR
+INTEGRANTE: SIN NOMBRE
+----------------------------------------------------
+
+----------------------------------------------------
+
+CARGO: QA / TESTER
+INTEGRANTE: SIN NOMBRE
+----------------------------------------------------
+
+----------------------------------------------------
+
